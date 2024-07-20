@@ -10,6 +10,7 @@ url: "https://github.com/celsworth/lxp-bridge"
 init: false
 startup: application
 stage: experimental
+host_network: true
 options:
   loglevel: info
   inverters:
